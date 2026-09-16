@@ -1,0 +1,42 @@
+# Delphi
+__pycache__/
+*.dcu
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.dpr.local
+*.res
+*.dsk
+*.identcache
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+bin/
+obj/
+Release/
+Debug/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project files
+*.~pas
+*.~dfm
+*.bak
+backup/
+
+# Compiler output
+*.cbk
